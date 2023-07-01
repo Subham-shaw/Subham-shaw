@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Subham-shaw
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning JavaScript, Css, Node.js, Andriod App Development
-- 💞️ I’m looking to collaborate on Discord Bot With Dashboard, Minecraft Server
-- 📫 Reach me By Dm Me Subham Shaw#1334
+- 👀 I’m interested in Programing, Designing, Hacking, Online Business
+- 🌱 I’m currently learning Artificial Intelligence, Single Page Applications
+- 💞️ I’m looking to collaborate on Coding Large Scale Websites and Hosting Businesses
+- 📫 Dm me at subhamshaw_dev (Discord)
 
 <!---
 Subham-shaw/Subham-shaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
